@@ -1,10 +1,10 @@
-from tkinter import *  # this line means that we are importing all the classes and methods present in tkinter module
+from tkinter import *   # this line means that we are importing all the classes and methods present in tkinter module
 import random
 from ttkthemes import *
 from tkinter import ttk
 import string
 import time
-import threading
+import threading    # to execute two function together
 
 # Funtionality Part
 
